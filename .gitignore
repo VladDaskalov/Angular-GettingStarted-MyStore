@@ -1,0 +1,7 @@
+# Ignore Angular cache folder
+.angular
+
+# Ignore Node Modules folder
+node_modules
+
+/.stackblitzrc
